@@ -14,7 +14,7 @@ $> cd ans-app
 $> yarn install
 
 ```
-
+### Hack
  replace files node_modules/@ansdomains/ui/src/ens.js with  nodemods_hacks =/@ansdomains/ui/src/ens.js
 
  $> yarn start
